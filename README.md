@@ -1,5 +1,5 @@
-# project
-## git practice
+# Project
+## Git practice
 ### 2023 / 1 / 4
 
 > QiuPeng
@@ -12,7 +12,10 @@
 - Jessicas
 - Omi
 
-[title](https://github.com/QiuePeng/project/new/main?readme=1)
+**粗體**
+***斜體***
+
+[連結](https://github.com/QiuePeng/project/new/main?readme=1)
 
 ```
 code
